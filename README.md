@@ -10,7 +10,7 @@ This project provides a comprehensive analysis of used car data to assist buyers
 
 ### 🔍 Min. Price Analysis by Fuel Type
 - Compares the **minimum listed price** of cars by fuel type.
-- Reveals that **Gasoline** cars offer the lowest entry price (~$2,000), while **Plug-In Hybrids** tend to be the most expensive (~$10,000).
+- Reveals that **Gasoline** cars offer the lowest entry price ($2,000), while **Plug-In Hybrids** tend to be the most expensive ($10,000).
 
 ### ⛽ No. of Cars Available by Fuel Type and Brand
 - Displays the **inventory count** of vehicles using various fuel types.
